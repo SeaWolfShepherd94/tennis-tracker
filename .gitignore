@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+*.suo
+.DS_Store
+TestResults/
+coverage/
+
+# Node / React
+client/node_modules/
+client/dist/
+client/.env.local
+client/.env.*.local
+
+# Logs
+*.log
+logs/
